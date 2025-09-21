@@ -1,0 +1,16 @@
+{
+  "name": "sandbox-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Minimal Node.js app for sandbox testing",
+  "dependencies": {
+    "docker": "^1.0.0",
+    "express": "^5.1.0"
+  }
+}
